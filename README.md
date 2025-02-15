@@ -5,6 +5,6 @@
 - Vector database: FAISS (for faster retrieval)
 - LLM: GPT-4
 - Platform: Streamlit
-4. Files upto 200MB, could be added
+3. Files upto 200MB, could be added
 ### Upcoming:
 Exploring Quantization techniques
